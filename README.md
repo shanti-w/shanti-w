@@ -1,4 +1,5 @@
-## Hi there 👋
+## How are elements produced and recycled in ✨stars✨?
+I guess that's what I'm here to find out...
 
 <!--
 **shanti-w/shanti-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
